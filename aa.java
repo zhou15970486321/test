@@ -4,6 +4,7 @@ public  class aa{
 			for(int j =1;i<=j;j++){
 				System.out.print(j+"*"+i+"="+i*j+"\n");	
 			}
+		    System.out.println();
 		}
 		
 	}
